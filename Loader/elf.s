@@ -1,14 +1,10 @@
-;
-;
-;	ме пюанрючыхи лндскэ. йнд ме хглемем дкъ пюанрш я дюммшлх юбрнлюрхвеяйнцн нопедекемхъ назелю нгс
-;
-;
-
 elfFormat:
-	mov		esi, ELF_FORMAT_STRING
-	mov		edi, 8 * 160 + 0 * 2 + VIDEO_BASE_ADDRESS
-	call	print
-	jmp	$
+	mov		esi, ELF_PARSING_STRING
+	mov		edi, 7 * 160 + 0 * 2 + VIDEO_BASE_ADDRESS
+	mov		eax, COLOR_INFO
+	call	print	
+
+	jmp $
 
 	mov		eax, DWORD [SYSTEM_DATA_ADDRESS]
 	add		eax, 0x0000003c
@@ -80,4 +76,5 @@ elf_moveEnd:
 	
 	jmp     edx
 
-ELF_FORMAT_STRING	db 'ELF format', 0
+ELF_PARSING_STRING			db 'ELF format detected, parsing ... ', 0
+ELF_PARSING_STRING_LENGTH	equ	($ - ELF_PARSING_STRING - 1)

@@ -13,7 +13,7 @@ INCLUDE_DIR = Include
 CXX = g++-4.8 -m32
 STD_FLAG = -std=gnu++11
 
-OPTIMIZATION =  -O0
+OPTIMIZATION =  -O2
 CPU_FLAGS = -mtune=geode
 
 CXXFLAGS = -Wall -MD $(STD_FLAG) -ffreestanding -fno-asynchronous-unwind-tables -fno-rtti -fno-exceptions -fpermissive $(OPTIMIZATION) $(CPU_FLAGS)
@@ -48,6 +48,7 @@ clean:
 	rm -f mapfile
 
 upload:
-	sudo ../../ImageLoader/imageLoader /dev/ttyUSB0 run $(TARGET_DIR)/$(TARGET_NAME)
+#	sudo ../../ImageLoader/imageLoader /dev/ttyUSB0 run $(TARGET_DIR)/$(TARGET_NAME)
+	sudo ../../ImageLoader/imageLoader /dev/ttyS0 run $(TARGET_DIR)/$(TARGET_NAME)
 
 include $(wildcard $(addsuffix /*.d, $(OBJECTS_DIR)))

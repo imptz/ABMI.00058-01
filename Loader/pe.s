@@ -1,5 +1,5 @@
 peFormat:
-	mov		esi, UNPUCKING_STRING
+	mov		esi, PE_PARSING_STRING
 	mov		edi, 7 * 160 + 0 * 2 + VIDEO_BASE_ADDRESS
 	mov		eax, COLOR_INFO
 	call	print		
@@ -68,7 +68,7 @@ moveEnd:
 	push	edx 
 
 	mov		esi, DONE_STRING
-	mov		edi, 7 * 160 + UNPUCKING_STRING_LENGTH * 2 + VIDEO_BASE_ADDRESS
+	mov		edi, 7 * 160 + PE_PARSING_STRING_LENGTH * 2 + VIDEO_BASE_ADDRESS
 	mov		eax, COLOR_DONE
 	call	print		
 
@@ -84,5 +84,5 @@ moveEnd:
 	pop		edx
 	jmp     edx
 
-UNPUCKING_STRING			db 'PE format detected, unpacking ... ', 0
-UNPUCKING_STRING_LENGTH		equ	($ - UNPUCKING_STRING - 1)
+PE_PARSING_STRING			db 'PE format detected, parsing ... ', 0
+PE_PARSING_STRING_LENGTH	equ	($ - PE_PARSING_STRING - 1)

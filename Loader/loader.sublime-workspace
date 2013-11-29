@@ -1,0 +1,883 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contentLength",
+				"contentLengthB1"
+			],
+			[
+				"ar",
+				"arvTime"
+			],
+			[
+				"dep",
+				"depTime"
+			],
+			[
+				"Exce",
+				"ExceptionRzdDb"
+			],
+			[
+				"arv",
+				"arv_date"
+			],
+			[
+				"a",
+				"arv_date"
+			],
+			[
+				"test",
+				"testArvDate"
+			],
+			[
+				"se",
+				"seat_num"
+			],
+			[
+				"ca",
+				"car_num"
+			],
+			[
+				"depS",
+				"depStation_index"
+			],
+			[
+				"arvStation",
+				"arvStation_index"
+			],
+			[
+				"sea",
+				"seatNumber"
+			],
+			[
+				"set",
+				"setTextBlock_error"
+			],
+			[
+				"addTr",
+				"addTravelRouteBlock"
+			],
+			[
+				"Thre",
+				"ThreadPool"
+			],
+			[
+				"T",
+				"ThreadPool"
+			],
+			[
+				"e",
+				"elem"
+			],
+			[
+				"lis",
+				"listFree"
+			],
+			[
+				"ser",
+				"serverSocket"
+			],
+			[
+				"get",
+				"getTextEncodeSize"
+			],
+			[
+				"new",
+				"newTask"
+			],
+			[
+				"__F",
+				"__FUNCTION__"
+			],
+			[
+				"task",
+				"taskPool"
+			],
+			[
+				"th",
+				"threadAction"
+			],
+			[
+				"pAllo",
+				"pAllocHead"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "loader.s",
+			"settings":
+			{
+				"buffer_size": 7187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "elf.s",
+			"settings":
+			{
+				"buffer_size": 1755,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pe.s",
+			"settings":
+			{
+				"buffer_size": 1600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "binary.s",
+			"settings":
+			{
+				"buffer_size": 583,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "const.inc",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crc.s",
+			"settings":
+			{
+				"buffer_size": 3962,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "display.s",
+			"settings":
+			{
+				"buffer_size": 2732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hdd.s",
+			"settings":
+			{
+				"buffer_size": 2490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hddWrite.s",
+			"settings":
+			{
+				"buffer_size": 2979,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "makefile",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "serial.s",
+			"settings":
+			{
+				"buffer_size": 6077,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/mnt/home/ilja/Projects/GitProjects/ABMI.00058-01/System/Src/makefile",
+			"settings":
+			{
+				"buffer_size": 1569,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/mnt/home/ilja/Projects/Web/Vs/www/index.php",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/listener.cpp",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/protocol.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/protocol.cpp",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/requestHandler.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/requestHandler.cpp",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/stringTools.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/main.cpp",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/stringTools.cpp",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/a",
+		"/mnt/home/ilja/Projects/fastcgi-1.0/fastcgi.hpp",
+		"/mnt/home/ilja/Projects/fastcgi-1.0/echo.cpp",
+		"/mnt/home/ilja/Projects/fastcgi-1.0/fastcgi.cpp",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/task.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/fcgi.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/listener.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/makefile",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00058.0/System/Src/Include/thread.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/aaa",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/test1.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/test2.h",
+		"/mnt/home/ilja/Sources/fastcgi-1.0/fastcgi.cpp",
+		"/mnt/home/ilja/Sources/fastcgi-1.0/fastcgi.hpp",
+		"/mnt/home/ilja/Sources/fastcgi-1.0/echo.cpp",
+		"/mnt/home/ilja/Sources/fastcgi-1.0/libscheduler/scheduler.hh",
+		"/mnt/home/ilja/Sources/fastcgi-1.0/libscheduler/pollvector.hh",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/fcgiProtocol.h",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/fcgiProtocol.cpp",
+		"/home/ilja/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ilja/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ilja/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/ilja/.config/sublime-text-3/Packages/User/C++.sublime-settings",
+		"/mnt/home/ilja/Projects/Web/ControlSystem/Trunk/WebEngine/Test/test.sublime-project",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/http.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/httpHandler.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Documetnations/ccb.odt",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/webServer.cpp",
+		"/home/ilja/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/webServer.h",
+		"/mnt/home/ilja/Sources/fastcgi-1.0/libscheduler/test.cc",
+		"/mnt/home/ilja/Sources/fastcgi-1.0/test.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00058.0/Mbr/mbr.s",
+		"/etc/nginx/conf.d/default.conf",
+		"/etc/nginx/nginx.conf",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/userDb.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/user.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/tools/toolsDb.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/main.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/login/loginForm.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/registration/activationTimer.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/registration/registrationForm.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/session.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/ckupload.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/css/main.css",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/template.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/rzd/rzdDb.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/news/newsDb.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/news/listForm.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/rzdTools/rzdTools.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/request.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/js/logic.js",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/rzd/route.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/logic/addTravel/addTravel.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/logic/main.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/tools/main.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/news/main.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/tools/tools.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/logic/addTravel/addTravelForm.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/toGit",
+		"/mnt/home/ilja/Projects/Web/PtzSite/fromGit",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/validation.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/rzd/main.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/log.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/user/profile/profileForm.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Www/sys/classes/logic/logic.php",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Rzd/testRzd/index.html",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Rzd/ticket_l.js",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Rzd/rzd",
+		"/home/ilja/Python/test.py",
+		"/mnt/home/ilja/Projects/Web/PtzSite/Rzd/trainRou.js",
+		"/mnt/home/ilja/Projects/ABMI.00083-01/Software/Modules/Base/Sources/http.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/threadPool.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/threadPool.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/singleton.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Test/main.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/mainCode.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/pool.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/log.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/log.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/dispatcherClient.cpp",
+		"/mnt/home/ilja/Projects/Test/main.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Test/makefile",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/dispatcherClient.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/base.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/mainCode.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/xml.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/xml.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/base.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/config.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/cmd.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/cmd.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/config.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/xmlExceptions.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/thread.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/thread.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/singleton.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/pool.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/crc32.cpp",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Sources/crc32.h",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Dispatcher/Sources/dispatcherProtocol.h",
+		"/usr/include/c++/4.7/functional",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Test/ccb_test_conf",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00083-01/Software/Modules/Base/Test/testBase",
+		"/home/ilja/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/ilja/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/ilja/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/ilja/.config/sublime-text-2/Packages/User/test",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00058.0/Loader/loader.s",
+		"/mnt/home/ilja/Projects/GitProjects/ABMI.00058.0/System/Src/Src/touchpad.cpp",
+		"/media/DACE-470F/Progects/Is/1/Is/is1",
+		"/mnt/home/ilja/Projects/Web/Site/Doc/Design Document/Frontend/clientUser.js",
+		"/mnt/home/ilja/Projects/Web/Site/Doc/Design Document/Backend/beUser.php",
+		"/mnt/home/ilja/Projects/Web/Site/Doc/Design Document/Backend/feUser.php",
+		"/mnt/home/ilja/Projects/Web/Site/Doc/Design Document/Backend/dbUser.php",
+		"/media/DACE-470F/Progects/Is/is.zip",
+		"/mnt/home/ilja/Projects/Web/Site/Www/sys/users/user.php",
+		"/mnt/home/ilja/Projects/Web/Site/Www/sys/users/login/login.php",
+		"/mnt/home/ilja/Projects/Web/Site/Www/js/main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n<",
+			"arams",
+			"handlersFree.si",
+			"sleep",
+			"active",
+			"isActive",
+			");\n",
+			"epollfd",
+			"\n				",
+			"epoll_ctl",
+			"events",
+			"stdinEof",
+			"errno",
+			"for",
+			"terminate_request",
+			"write(",
+			"write",
+			"protocol_status_t",
+			"FCGIRequest",
+			"end_request",
+			"TYPE_STDOUT",
+			"EndRequestMsg",
+			"end_request",
+			"end_",
+			"pollfd",
+			"pollvec",
+			"fd_is_readable",
+			"sock",
+			"register_handler",
+			"fd_is_readable",
+			"listen",
+			"accep",
+			"fd_is_readable",
+			"acce",
+			"listen",
+			"write_buffer",
+			"OutputCallback",
+			"output_cb",
+			"driver",
+			"output_cb",
+			"bufferIn",
+			"protocol driver",
+			"output_cb",
+			"terminate_request",
+			"handler_cb",
+			"driver",
+			"handler_cb",
+			"process_input",
+			"InputBuffer",
+			"indent",
+			"identa",
+			"pollvec",
+			"DEFAULT_FOTO_LINK",
+			"\n		",
+			"close",
+			"$res",
+			"res",
+			"count",
+			"mktime",
+			"startDepTime",
+			"		public function addTravel($trainNumber, $startDate, $stopDate, $route){\nroute",
+			"		public function addTravel($trainNumber, $startDate, $stopDate, $route){\nroutes",
+			"\n#",
+			").\n",
+			"'.\n",
+			"%\">",
+			"backlog",
+			"\n			",
+			"	list.release(p1);\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bufferInput",
+			"$this->getRes",
+			"this->getRes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "loader.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5733,
+								5733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4503.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "elf.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pe.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "binary.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "const.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "crc.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "display.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "hdd.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "hddWrite.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "serial.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/mnt/home/ilja/Projects/GitProjects/ABMI.00058-01/System/Src/makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 644.0
+	},
+	"project": "loader.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/mnt/home/ilja/Projects/Web/Test/test-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

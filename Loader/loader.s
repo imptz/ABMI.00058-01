@@ -6,7 +6,7 @@ IMAGE_SIZE:	dd	IMAGE_SIZE_C
 BITS 32
 
 	mov		eax, [LAST_MEMORY_ADDRESS]
-	sub		eax, STACK_SIZE * 10
+	sub		eax, STACK_SIZE * 60
 	mov     [IMAGE_LOAD_ADDRESS], eax
 
 	mov		eax, [LAST_MEMORY_ADDRESS]
